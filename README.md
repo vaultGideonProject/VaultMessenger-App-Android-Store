@@ -2,7 +2,7 @@ Got it! Here’s a boosted, professional README — perfect for Silicon Valley v
 
 ---
 
-# 🌐 Vault App  
+# 🌐 VaultMessenger Android App  
 **Innovative Chat Messaging Application** | Built with Kotlin | Google Play  
 
 Vault App is a modern, secure, and user-centric chat platform designed to deliver seamless real-time communication.  
